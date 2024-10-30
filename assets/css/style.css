@@ -69,3 +69,52 @@ img {
 
 }
 
+
+.navbar {
+    height: 150px;
+    width: 95%;
+    background-color:#FBF7E3 ;
+    border-top-left-radius: 4rem;
+    border-bottom-left-radius: 4rem;
+    border-bottom-right-radius: 4rem;
+    border-top-right-radius: 4rem;
+
+}
+
+.buttonContainerNav{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.buttonContainerNav button {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3DF85;
+    border: none;
+    border-radius: 2rem;
+    margin-right: 20px;
+    color: #64290C;
+}
+
+
+.centralButton {
+    font-weight: bolder;
+    height: 4rem;
+    width: 10rem;
+    font-size: 30px;
+    padding-inline: 5%;
+}
+
+.otherBtn {
+    height: 2rem;
+    width: 8rem;
+}
+
+
+
+
+
